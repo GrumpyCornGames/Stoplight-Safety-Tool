@@ -28,4 +28,8 @@
       }
     }
   ]
+  "url": "https://github.com/GrumpyCornGames/Stoplight-Safety-Tool",
+  "manifest": "https://github.com/GrumpyCornGames/Stoplight-Safety-Tool/download/1.0/module.json",
+  "download": "https://github.com/GrumpyCornGames/Stoplight-Safety-Tool/download/1.0/module.zip"
+}
 }
