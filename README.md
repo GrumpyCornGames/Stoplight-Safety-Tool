@@ -5,3 +5,5 @@ This is a Stoplight Safety Tool macro for players and GMs. Make sure to give pla
 This lightweight macro module allows players to quickly send stoplight images- green, yellow, or red- directly into the chat. The sender remains anonymous to everyone except the GM, who receives a private message automatically. When a yellow or red light is triggered, a sound effect plays to grab attention.
 
 To use it, make sure to grant observer permissions to all players and have them drag the macro onto their macro bar at the bottom.
+
+For other great RPG content, check out www.GrumpyCornGames.com
